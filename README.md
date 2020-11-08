@@ -1,0 +1,2 @@
+# CSULB-RMC
+Github basics
