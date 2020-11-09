@@ -1,2 +1,2 @@
 # CSULB-RMC
-Github basics
+Github basics and test
